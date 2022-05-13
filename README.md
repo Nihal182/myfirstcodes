@@ -2,4 +2,4 @@
 
 ## Meu primeiro contato com códigos
 
-Aqui salvo as atividades simples da faculdade ou de cursos diversos.
+Aqui ficam salvos os meus testes e atividades da faculdade.

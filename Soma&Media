@@ -1,0 +1,18 @@
+public class SomaMedia {
+//Porgrama de caulcular Soma e média em Java
+   public static void main(String[] args) {
+//Declaração de Variáveis
+          int resultadoSoma;
+          float resultadoMedia;
+//Início do Programa
+          resultadoSoma = 5+5+5;
+          resultadoMedia = resultadoSoma/3;
+//Printar na tela para o usuário
+          System.out.println("O resultado da Soma de 5+5+5 é:");
+          System.out.println(resultadoSoma);
+          System.out.println("O resultado da Média entre os números citados é:");
+          System.out.println(resultadoMedia);
+  }
+}
+          
+           
